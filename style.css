@@ -416,8 +416,9 @@ nav{
 /* ===========================
    SECTION SPACING
 =========================== */
-
-section{
+.room-section,
+.why-section,
+.page-header{
     padding:90px 0;
 }
 
